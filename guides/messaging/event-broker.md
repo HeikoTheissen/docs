@@ -198,8 +198,4 @@ Possible? If yes, how?
 
 -->
 
-
-
-<span id="eventbrokersaasconsuming" />
-
-<span id="eventbrokersaaspublishing" />
+<span id="eventbrokersaas" />
